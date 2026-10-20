@@ -8,7 +8,7 @@ Support tool for the **Intermunicipal Environmental Board “JIRA”** — *Junt
 The workflow guides sanitation strategies, mitigates environmental risks, and supports ecological land-use planning using open global datasets in **Google Earth Engine** and **Python / geemap**.
 
 ---
-
+| `figures/15_geonode_style_map.png` | GeoNode-style composition map |
 ## ⚠️ Important caveat
 
 All risk indices in this repository are **relative, screening-level indices** built from open global datasets. They are **not calibrated** engineering or hydrological models. Their purpose is to **prioritise areas for field verification** — not to provide final design or regulatory values.
